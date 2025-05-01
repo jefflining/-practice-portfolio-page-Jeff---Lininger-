@@ -10,8 +10,11 @@ p {
 
 ul {
     line-height: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
   
-  div {
+div {
     border: 2px solid black;
+    margin-right: 1500px;
   }
