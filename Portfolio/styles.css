@@ -1,0 +1,17 @@
+body {
+ background-color: cornflowerblue;
+}
+
+p {
+ font-size: 18px;
+ text-align: left;
+ color: green;
+}
+
+ul {
+    line-height: 45px;
+  }
+  
+  div {
+    border: 2px solid black;
+  }
