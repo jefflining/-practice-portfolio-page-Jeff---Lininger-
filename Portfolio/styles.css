@@ -8,13 +8,17 @@ p {
  color: green;
 }
 
-ul {
+#ul {
     line-height: 45px;
     padding-top: 10px;
     padding-bottom: 10px;
   }
   
-div {
-    border: 2px solid black;
-    margin-right: 1500px;
-  }
+.skills {
+  background-color: green;
+  text-align: left;
+  border: 4px solid black;
+  margin-right: 1500px;
+  font-style: oblique;
+}
+
